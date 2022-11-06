@@ -22,7 +22,3 @@ Hello, I am discord.js bot and web developer, working on multiple open source pr
 
  <div>
 
------
-Credits: [LachlanDev](https://github.com/LachlanDev)
-
-Last Edited on: 1/10/2021
