@@ -7,7 +7,7 @@ Hello, I am discord.js bot and web developer, working on multiple open source pr
 -------------------
 
 ## Contact
-<a href="https://www.instagram.com/akacannon/">![Instagram](https://img.shields.io/badge/akacannon-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
+<a href="https://www.instagram.com/akacannon/"
 </a> ![Discord](https://img.shields.io/badge/akacannon%238821-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 -------------------
