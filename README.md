@@ -14,7 +14,7 @@ Hello, I am discord.js bot and web developer, working on multiple open source pr
 
   <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+  <img src="https://profile-counter.glitch.me/akacannon/count.svg" />
   </p>
 
 -------------------
