@@ -23,5 +23,5 @@ Hello, I am discord.js bot and web developer, working on multiple open source pr
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akacannon&count_private=false&layout=compact&bg_color=101414&theme=dark&border_radius=10&hide_border=true&custom_title=Most+Used+Languages)](https://github.com/akacannon)
    
    
-[![akacannon Stats](https://github-readme-stats.vercel.app/api?username=akacannon&count_private=fals&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=101414&border_radius=10&custom_title=Stadistics+of+akacannon)](https://github.com/akacannon)
+[![akacannon Stats](https://github-readme-stats.vercel.app/api?username=akacannon&count_private=false&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=101414&border_radius=10&custom_title=Stadistics+of+akacannon)](https://github.com/akacannon)
 
