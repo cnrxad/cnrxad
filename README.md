@@ -11,9 +11,9 @@ Hello, I am discord.js bot and web developer, working on multiple open source pr
 ![Discord](https://img.shields.io/badge/akacannon%238821-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 -------------------
-
-  <p align="center"> 
-  ## Visitor count<br>
+  
+  <p align="center">
+  ## Visitor count
   <img src="https://profile-counter.glitch.me/akacannon/count.svg" />
   </p>
 
