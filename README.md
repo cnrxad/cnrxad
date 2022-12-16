@@ -1,8 +1,8 @@
-# Hi I'm akacannon 👋
+# stfu kid, and look at this ⬇
 <div align="center">
 
 ## About
-Hello, I am discord.js bot and web developer, working on multiple open source projects, mainly backend using Node.JS and Mongodb. I have created a range of Discord BOT applications allowing me to become a semi-Verified Discord Bot Developer.
+javascript, discord.js, html, css, developer, like it or not, just follow me bruh 
 
 -------------------
 
