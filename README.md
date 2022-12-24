@@ -4,6 +4,9 @@
 ## About
 javascript, discord.js, html, css, developer, like it or not, just follow me bruh 
 
+play [__snake__](https://akacannon.github.io/games/snake.html)
+play [__tetris__](https://akacannon.github.io/games/tetris.html)
+
 -------------------
 
 ## Contact
