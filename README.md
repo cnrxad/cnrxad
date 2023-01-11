@@ -8,7 +8,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akacannon&label=Profile%20views&color=0e75b6&style=flat" alt="akacannon" /> </p>
 
 ## About
-javascript, discord.js, html, css, developer, like it or not, just follow me bruh 
 
 play [__snake__](https://akacannon.github.io/games/snake.html)
 play [__tetris__](https://akacannon.github.io/games/tetris.html)
@@ -18,13 +17,6 @@ play [__tetris__](https://akacannon.github.io/games/tetris.html)
 ## Contact
 [![Instagram](https://img.shields.io/badge/Instagram-C94CF3?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akacannon)
 ![Discord](https://img.shields.io/badge/akacannon%238821-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-
--------------------
-  
-  <p align="center">
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/akacannon/count.svg" />
-  </p>
 
 -------------------
 
