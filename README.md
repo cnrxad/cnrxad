@@ -1,5 +1,11 @@
-# stfu kid, and look at this ⬇
+<h1 align="center">Hi 👋, I'm akacannon</h1>
+<h3 align="center">Discord Bot Developer</h3>
 <div align="center">
+  
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akacannon" alt="akacannon" /></a> </p>
+  
+  <img align="center" src="https://discord.c99.nl/widget/theme-2/882481863661342770.png" alt="Discord"/> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akacannon&label=Profile%20views&color=0e75b6&style=flat" alt="akacannon" /> </p>
 
 ## About
 javascript, discord.js, html, css, developer, like it or not, just follow me bruh 
