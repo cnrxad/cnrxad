@@ -29,4 +29,14 @@ play [__tetris__](https://akacannon.github.io/games/tetris.html)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akacannon&count_private=true&layout=compact&bg_color=101414&theme=dark&border_radius=10&hide_border=true&custom_title=Most+Used+Languages)](https://github.com/akacannon)
    
    
-![akacannon's GitHub stats](https://github-readme-stats.vercel.app/api?username=akacannon&show_icons=true&theme=radical)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
