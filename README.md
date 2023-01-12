@@ -29,8 +29,8 @@ play [__tetris__](https://akacannon.github.io/games/tetris.html)
  <div>
    
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akacannon&count_private=tru&layout=compact&bg_color=101414&theme=dark&border_radius=10&hide_border=true&custom_title=Most+Used+Languages)](https://github.com/akacannon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akacannon&count_private=true&layout=compact&bg_color=101414&theme=dark&border_radius=10&hide_border=true&custom_title=Most+Used+Languages)](https://github.com/akacannon)
    
    
-[![akacannon Stats](https://github-readme-stats.vercel.app/api?username=akacannon&count_private=tru&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=101414&border_radius=10&custom_title=Stadistics+of+akacannon)](https://github.com/akacannon)
+[![akacannon Stats](https://github-readme-stats.vercel.app/api?username=akacannon&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=101414&border_radius=10&custom_title=Stadistics+of+akacannon)](https://github.com/akacannon)
 
