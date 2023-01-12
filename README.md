@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm akacannon</h1>
+-------------------
 <h3 align="center">Discord Bot Developer</h3>
 <div align="center">
   
