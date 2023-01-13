@@ -28,3 +28,13 @@ Hi, I'm akacannon, a self-taught developer from Spain.
 
 <a href="https://github.com/akacannon"><img src="https://camo.githubusercontent.com/297212f5cfd71f14f1a774a22bfd24b24bfa996aa72f4d941f790c8606ca8f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465"><a> 
 <a href="https://twitter.com/neverbecannon"><img src="https://camo.githubusercontent.com/e1c2fd3bcd4ed13889ed78d1e814261a7cfbc79ae826198b7813850b15a8d956/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465"><a>
+
+  
+  
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akacannon&show_icons=true&locale=en" alt="akacannon" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akacannon&" alt="akacannon" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akacannon&show_icons=true&locale=en&layout=compact" alt="akacannon" /></p>
