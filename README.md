@@ -36,3 +36,8 @@ Hi, I'm akacannon, a self-taught developer from Spain.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akacannon&" alt="akacannon" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akacannon&show_icons=true&locale=en&layout=compact" alt="akacannon" /></p>
+
+**Bored?**
+
+- 🏗 Play [tetris](https://akacannon.github.io/games/tetris.html)~
+- 🐍 Play [snake](https://akacannon.github.io/games/snake.html)~
