@@ -1,10 +1,10 @@
 ### Hi there, I'm [akacannon!](https://akacannon.github.io) 👋
 
 
-<a href="discord.com/users/428932442473365504">
+<a href="https://discord.com/users/428932442473365504">
   <img align="left" alt="akacannon" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
-<a href="twitter.com/neverbecannon">
+<a href="https://twitter.com/neverbecannon">
   <img align="left" alt="akacannon" width="21px" src="https://github.com/anuraghazra/anuraghazra/blob/master/assets/twitter.svg" />
 </a>
 
