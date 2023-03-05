@@ -1,7 +1,7 @@
 ### Hi there, I'm [akacannon!](https://akacannon.github.io) 👋
 
 
-<a href="#">
+<a href="discord.com/users/428932442473365504">
   <img align="left" alt="akacannon" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <a href="twitter.com/neverbecannon">
