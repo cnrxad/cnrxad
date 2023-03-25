@@ -31,7 +31,7 @@ Hi, I'm akacannon, a self-taught developer from Spain.
 
  **Stadistics:**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akacannon&show_icons=true&locale=en" alt="akacannon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akacannon&show_icons=tru&locale=en" alt="akacannon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akacannon&" alt="akacannon" /></p>
 
