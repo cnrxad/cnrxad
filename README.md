@@ -15,7 +15,7 @@
 Hi, I'm akacannon, a self-taught developer from Spain.
 
 - 🔭 I’m currently working on [My Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1060357217313886340&permissions=8&scope=bot%20applications.commands)
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on [Creating Discord Bots](https://github.com/akacannon/Discord.js-V13-Bot-Template)
 - 💬 Ask me about anything [here](https://github.com/akacannon/akacannon/issues)
 
