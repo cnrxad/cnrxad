@@ -42,5 +42,4 @@ Hi, I'm akacannon, a self-taught developer from Spain.
 
 **Bored?**
 
-- 🏗 Play [tetris](https://akacannon.github.io/games/tetris.html)~
-- 🐍 Play [snake](https://akacannon.github.io/games/snake.html)~
+- 🏗 Play [tic tac toe](https://akacannon.github.io)~
