@@ -1,8 +1,8 @@
-### Hi there, I'm [akacannon!](https://akacannon.github.io) 👋
+### Hi there, I'm [cnrxad!](https://cnrxad.github.io) 👋
 
 <br />
 
-Hi, I'm akacannon, a self-taught developer from Spain.
+Hi, I'm cnrxad, a self-taught developer from Spain.
 
 
 **Languages and Tools:**  
@@ -28,4 +28,4 @@ Hi, I'm akacannon, a self-taught developer from Spain.
 
 **Bored?**
 
-- 🏗 Play [tic tac toe](https://akacannon.github.io)~
+- 🏗 Play [tic tac toe](https://cnrxad.github.io/tictactoe/index.html)~
