@@ -28,4 +28,4 @@ Hi, I'm cnrxad, a self-taught developer from Spain.
 
 **Bored?**
 
-- 🏗 Play [tic tac toe](https://cnrxad.github.io/tictactoe/index.html)~
+- 🏗 Play [tic tac toe](https://cnrxad.github.io/tictactoe/)~
