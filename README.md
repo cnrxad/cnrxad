@@ -21,11 +21,11 @@ Hi, I'm cnrxad, a self-taught developer from Spain.
 
  **Stadistics:**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cnrxad&show_icons=tru&locale=en" alt="cnrxad" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cnrxad&show_icons=tru&locale=en" alt="cnrxd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cnrxad&" alt="cnrxad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cnrxd&" alt="cnrxad" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cnrxad&show_icons=true&locale=en&layout=compact" alt="cnrxad" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cnrxad&show_icons=true&locale=en&layout=compact" alt="cnrxd" /></p>
 
 **Bored?**
 
