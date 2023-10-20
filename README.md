@@ -2,6 +2,8 @@
 
 <br />
 
+ftar web: [![Netlify Status](https://api.netlify.com/api/v1/badges/6ba34de3-901a-4301-9c9e-e7729bfd7482/deploy-status)](https://app.netlify.com/sites/ftar/deploys)
+
 **Languages and Tools:**  
 
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
