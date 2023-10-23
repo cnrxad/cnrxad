@@ -29,3 +29,4 @@ ftar web: [![Netlify Status](https://api.netlify.com/api/v1/badges/6ba34de3-901a
 **Bored?**
 
 - 🏗 Play [tic tac toe](https://cnrxad.github.io/tictactoe/)~
+- 🐻 Play [FTAR](https://ftar.netlify.app)~
