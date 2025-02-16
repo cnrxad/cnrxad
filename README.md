@@ -2,8 +2,8 @@
 
 <br />
 
+[RickyEdit Development Team](https://github.com/Ricky-Bots)
 ip geolocalization: [download link](https://github.com/cnrxad/IP-Info-Geolocalization)
-
 
 **Languages and Tools:**  
 
