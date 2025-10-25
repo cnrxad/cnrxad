@@ -1,4 +1,4 @@
-[Download my IP-Finder Tool](https://github.com/cnrxad/IP-Info-Geolocalization).
+[Download my IP-Finder Tool](https://github.com/cnrxad/IP-Info-Geolocalization).<br>
 [Install Kuro Sakura](https://github.com/cnrxad/kuro-sakura), the best VSC Theme for programmers.
 
 
