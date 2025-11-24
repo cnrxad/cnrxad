@@ -9,7 +9,7 @@
 
 <br>
 
-- <img src="./assets/rick.png" width="18"> | Member of [rick's](https://github.com/Ricky-Bots) Development Team.
+- <img src="./assets/rick.png" width="14"> | Member of [rick's](https://github.com/Ricky-Bots) Development Team.
 - Principal author of [Sakura X](https://github.com/cnrxad/sakura-x), the best VSC Theme for programmers.
 
 
