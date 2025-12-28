@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Se ejecuta todos los días a medianoche UTC
-  workflow_dispatch:      # Permite ejecutarlo manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -29,6 +29,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update snake animation"
-          commit_user_name: github-actions
-          commit_user_email: github-actions@github.com
-          push_options: '--force'
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
