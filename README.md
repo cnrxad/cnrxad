@@ -17,10 +17,17 @@
 
 <div align="center">
 
+
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
-  <img alt="github contribution snake" src="./dist/github-snake.svg" />
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/cnrxad/cnrxad/snake-art/dist/github-snake-dark.svg" 
+  />
+  <img 
+    alt="github contribution snake" 
+    src="https://raw.githubusercontent.com/cnrxad/cnrxad/snake-art/dist/github-snake.svg" 
+  />
 </picture>
 
 # 
