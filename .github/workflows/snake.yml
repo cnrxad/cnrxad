@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   build:
@@ -15,6 +12,9 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          ref: snake-art
+          fetch-depth: 0
 
       - name: Generate Snake files
         uses: Platane/snk@v3
@@ -31,3 +31,4 @@ jobs:
           commit_message: "chore: update snake animation"
           commit_user_name: github-actions[bot]
           commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          branch: snake-art
