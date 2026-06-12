@@ -10,8 +10,7 @@
 <br>
 
 - [<img src="./assets/rick.png" width="14">](https://github.com/Ricky-Bots) | Ex-Member of [RickyEdit](https://www.youtube.com/@rickyedit) Development Team.
-- Principal author of [Sakura X](https://github.com/cnrxad/sakura-x), the best VSC Theme for programmers.
-
+- Principal author of [Sakura X](https://marketplace.visualstudio.com/items?itemName=cnrxad.sakura-x), the best VSC Theme for programmers.
 
 #
 
